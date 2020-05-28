@@ -1,0 +1,91 @@
+.menu ul li a {
+  background-color:rgb(255, 179, 179);
+  padding:8px;
+  display:inline-block;
+  width:100%;
+  color:black;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+}
+
+.menu {
+  width:20%;
+  text-align:center;
+  vertical-align: middle;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.menu ul li {
+  display:inline-block;
+  vertical-align: middle;
+}
+
+.menu ul {
+  list-style-type: none;
+  width:600px;
+  margin:0px auto;
+  padding:0px;
+}
+
+body{
+  font-family: 'Lato', arial;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+.subtitle{
+  font-style: italic;
+}
+
+img{
+  align:center;
+  width:900px;
+  height:500px;
+}
+
+.banner{
+  width:640px;
+  height:228px;
+}
+
+#message{
+  width:500px;
+  height:300px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+a{
+  font-size:125%
+}
+
+footer{
+  text-align: center;
+  font-size:75%;
+}
+
+.logoxl{
+  width: 260px;
+  height: 100px;
+  vertical-align: middle;
+}
+
+.comparison{
+  font-size: bold;
+}
+
+.logo{
+  width: 130px;
+  height: 50px;
+  vertical-align: middle;
+}
